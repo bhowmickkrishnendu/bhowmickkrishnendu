@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Landmark Group (Executive - Application Support Engineer), Kolkata, India**
 
-- 🌱 I’m currently learning **Ansible, AWS Service**
+- 🌱 I’m currently learning **Ansible, Terraform**
 
 - 🤝 My experience **7 Yrs**
 
@@ -13,7 +13,7 @@
 
 - 📝 I write articles on [https://notebykrish.blogspot.com/](https://notebykrish.blogspot.com/)
 
-- 💬 Ask me about **Docker, Kubernetes, Jenkins, Github**
+- 💬 Ask me about **Docker, Kubernetes, Jenkins, Github, AWS Service**
 
 - 📫 How to reach me **9635.krishnendu@gmail.com**
 
