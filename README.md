@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhowmickkrishnendu](https://github.com/bhowmickkrishnendu)
 
-- 📝 I write articles on [https://notebykrish.blogspot.com/](https://notebykrish.blogspot.com/)
+- 📝 I write articles on [https://krishnendubhowmick.medium.com/](https://krishnendubhowmick.medium.com/)
 
 - 💬 Ask me about **Docker, Kubernetes, Jenkins, Github, AWS Service**
 
