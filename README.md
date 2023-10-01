@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/whokrishnendu" target="blank"><img src="https://img.shields.io/twitter/follow/whokrishnendu?logo=twitter&style=for-the-badge" alt="whokrishnendu" /></a> </p>
 
-- 🔭 I’m currently working at **Landmark Group (Executive - Application Support Engineer), Kolkata, India**
+- 🔭 I’m currently working as **AWS DevOps Engineer, Kolkata, India**
 
-- 🌱 I’m currently learning **Ansible, Terraform**
+- 🌱 I’m currently learning **Ansible, Pulumi**
 
-- 🤝 My experience **7 Yrs**
+- 🤝 My experience **8 Yrs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhowmickkrishnendu](https://github.com/bhowmickkrishnendu)
 
