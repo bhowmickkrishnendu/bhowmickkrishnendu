@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **AWS DevOps Engineer, Kolkata, India**
 
-- 🌱 I’m currently learning **Ansible, Javascript**
+- 🌱 I’m currently learning **Ansible, React JS**
 
 - 🤝 My experience **8 Yrs**
 
