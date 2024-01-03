@@ -21,6 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Navigating Scrum: A Beginner’s Expedition into Agile Development](https://krishnendubhowmick.medium.com/navigating-scrum-a-beginners-expedition-into-agile-development-e82da9e03c7b?source=rss-1dad22fc18ce------2)
+- [Unlocking EC2 Connectivity: A Guide to Accessing Instances Without a Key Pair!](https://krishnendubhowmick.medium.com/unlocking-ec2-connectivity-a-guide-to-accessing-instances-without-a-key-pair-48de23042d23?source=rss-1dad22fc18ce------2)
+- [Demystifying Istio: A Beginner’s Guide to Service Mesh in Kubernetes](https://krishnendubhowmick.medium.com/demystifying-istio-a-beginners-guide-to-service-mesh-in-kubernetes-c2cc2db7bb7e?source=rss-1dad22fc18ce------2)
+- [How to Configure a Static IP Address on Ubuntu 20.04/22.04 LTS — Step-by-Step](https://krishnendubhowmick.medium.com/how-to-configure-a-static-ip-address-on-ubuntu-20-04-22-04-lts-step-by-step-4a35d6662083?source=rss-1dad22fc18ce------2)
+- [Demystifying Object-Oriented Programming &lpar;OOP&rpar; Concepts](https://krishnendubhowmick.medium.com/demystifying-object-oriented-programming-oop-concepts-e738dcadaaf0?source=rss-1dad22fc18ce------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
