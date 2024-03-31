@@ -26,11 +26,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TERRAFORM DEVELOPER INTERVIEV QUESTIONS AND ANSWERS](https://krishnendubhowmick.medium.com/terraform-developer-interviev-questions-and-answers-a950d6d9b543?source=rss-1dad22fc18ce------2)
 - [Navigating Kubernetes Networking: A Comprehensive Exploration of Calico, Flannel, and Weave…](https://krishnendubhowmick.medium.com/navigating-kubernetes-networking-a-comprehensive-exploration-of-calico-flannel-and-weave-665670cd6cc4?source=rss-1dad22fc18ce------2)
 - [Guiding Lights in the DevOps Constellation: Navigating Tools through Clouds and Code](https://krishnendubhowmick.medium.com/guiding-lights-in-the-devops-constellation-navigating-tools-through-clouds-and-code-26e83d0e0aaf?source=rss-1dad22fc18ce------2)
 - [Embarking on the Cloud Odyssey: Seven Years of DevOps Excellence within the Tech Startup Sphere](https://krishnendubhowmick.medium.com/embarking-on-the-cloud-odyssey-seven-years-of-devops-excellence-within-the-tech-startup-sphere-7f34ce6ab39f?source=rss-1dad22fc18ce------2)
 - [Navigating Scrum: A Beginner’s Expedition into Agile Development](https://krishnendubhowmick.medium.com/navigating-scrum-a-beginners-expedition-into-agile-development-e82da9e03c7b?source=rss-1dad22fc18ce------2)
-- [Unlocking EC2 Connectivity: A Guide to Accessing Instances Without a Key Pair!](https://krishnendubhowmick.medium.com/unlocking-ec2-connectivity-a-guide-to-accessing-instances-without-a-key-pair-48de23042d23?source=rss-1dad22fc18ce------2)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
