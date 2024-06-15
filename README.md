@@ -26,11 +26,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automate Daily System Restore Points in Windows with PowerShell and Task Scheduler](https://krishnendubhowmick.medium.com/automate-daily-system-restore-points-in-windows-with-powershell-and-task-scheduler-41bed1d008e4?source=rss-1dad22fc18ce------2)
 - [API Architectural Designs: Unveiling the Modern Approaches to Interconnectivity](https://krishnendubhowmick.medium.com/api-architectural-designs-unveiling-the-modern-approaches-to-interconnectivity-a4aa25e94416?source=rss-1dad22fc18ce------2)
 - [Understanding VM and Container Architecture : Why Containers Are Essential in Today’s Tech…](https://krishnendubhowmick.medium.com/understanding-vm-and-container-architecture-why-containers-are-essential-in-todays-tech-c5206a876b98?source=rss-1dad22fc18ce------2)
 - [TERRAFORM DEVELOPER INTERVIEV QUESTIONS AND ANSWERS](https://krishnendubhowmick.medium.com/terraform-developer-interviev-questions-and-answers-a950d6d9b543?source=rss-1dad22fc18ce------2)
 - [Navigating Kubernetes Networking: A Comprehensive Exploration of Calico, Flannel, and Weave…](https://krishnendubhowmick.medium.com/navigating-kubernetes-networking-a-comprehensive-exploration-of-calico-flannel-and-weave-665670cd6cc4?source=rss-1dad22fc18ce------2)
-- [Guiding Lights in the DevOps Constellation: Navigating Tools through Clouds and Code](https://krishnendubhowmick.medium.com/guiding-lights-in-the-devops-constellation-navigating-tools-through-clouds-and-code-26e83d0e0aaf?source=rss-1dad22fc18ce------2)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
