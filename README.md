@@ -26,11 +26,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My Experience with Deploying Stateful Applications on AWS EKS: Why I Switched from EBS to EFS](https://krishnendubhowmick.medium.com/my-experience-with-deploying-stateful-applications-on-aws-eks-why-i-switched-from-ebs-to-efs-ff257ab8745d?source=rss-1dad22fc18ce------2)
 - [Simplifying Terraform State Management: The Impact of Terraform 1.10.0&#39;s Built-in S3 State Lock](https://krishnendubhowmick.medium.com/simplifying-terraform-state-management-the-impact-of-terraform-1-10-0s-built-in-s3-state-lock-4cce0880febd?source=rss-1dad22fc18ce------2)
 - [Keeping Your Apps Healthy: A Deep Dive into Kubernetes Probes](https://krishnendubhowmick.medium.com/keeping-your-apps-healthy-a-deep-dive-into-kubernetes-probes-c0b13ed87f1c?source=rss-1dad22fc18ce------2)
 - [How Python Really Works: Behind the Scenes](https://krishnendubhowmick.medium.com/how-python-really-works-behind-the-scenes-0b305afb6c1b?source=rss-1dad22fc18ce------2)
 - [Mastering Windows Updates with Ansible: A Comprehensive Guide](https://krishnendubhowmick.medium.com/mastering-windows-updates-with-ansible-a-comprehensive-guide-6272bc13d58b?source=rss-1dad22fc18ce------2)
-- [Automate Daily System Restore Points in Windows with PowerShell and Task Scheduler](https://krishnendubhowmick.medium.com/automate-daily-system-restore-points-in-windows-with-powershell-and-task-scheduler-41bed1d008e4?source=rss-1dad22fc18ce------2)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
