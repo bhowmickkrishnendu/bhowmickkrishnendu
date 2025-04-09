@@ -26,11 +26,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CVE-2025–1974: IngressNightmare — The Kubernetes Zero-Day That Lets Attackers Steal Your Cluster…](https://krishnendubhowmick.medium.com/cve-2025-1974-ingressnightmare-the-kubernetes-zero-day-that-lets-attackers-steal-your-cluster-3691c8298496?source=rss-1dad22fc18ce------2)
 - [Understanding Lists, Tuples, Sets, and Dictionaries in Python: A Beginner-Friendly Guide](https://krishnendubhowmick.medium.com/understanding-lists-tuples-sets-and-dictionaries-in-python-a-beginner-friendly-guide-3bddd9f8f0c7?source=rss-1dad22fc18ce------2)
 - [How JioHotstar handled 60 Cr views during Ind vs Pak match&lpar;Feat. my wifey’s reactions!&rpar;](https://krishnendubhowmick.medium.com/how-jiohotstar-handled-60-cr-views-during-ind-vs-pak-match-feat-my-wifeys-reactions-0016652a3d28?source=rss-1dad22fc18ce------2)
 - [What Happens When Kubernetes Pods Disappear? A Practical Guide to Pod Disruption Budgets](https://krishnendubhowmick.medium.com/what-happens-when-kubernetes-pods-disappear-a-practical-guide-to-pod-disruption-budgets-ede7947017b4?source=rss-1dad22fc18ce------2)
 - [AWS Architecture: Overcoming API Gateway Pay Challenges](https://blog.devgenius.io/aws-architecture-overcoming-api-gateway-pay-challenges-b677a5abfa1b?source=rss-1dad22fc18ce------2)
-- [My Experience with Deploying Stateful Applications on AWS EKS: Why I Switched from EBS to EFS](https://krishnendubhowmick.medium.com/my-experience-with-deploying-stateful-applications-on-aws-eks-why-i-switched-from-ebs-to-efs-ff257ab8745d?source=rss-1dad22fc18ce------2)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
