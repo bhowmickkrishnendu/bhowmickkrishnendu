@@ -26,11 +26,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep Dive into AWS Regions, AZs, and Beyond: What Every Cloud Learner Should Truly Understand](https://krishnendubhowmick.medium.com/deep-dive-into-aws-regions-azs-and-beyond-what-every-cloud-learner-should-truly-understand-ff8af170bc0d?source=rss-1dad22fc18ce------2)
 - [How to Backup and Restore Amazon DocumentDB: Step-by-Step Guide](https://krishnendubhowmick.medium.com/how-to-backup-and-restore-amazon-documentdb-step-by-step-guide-956f3541d769?source=rss-1dad22fc18ce------2)
 - [How Food Delivery Apps Like Swiggy &amp; Zomato Stay Fast: The Magic of Apache Kafka](https://krishnendubhowmick.medium.com/how-food-delivery-apps-like-swiggy-zomato-stay-fast-the-magic-of-apache-kafka-2d2d6164fda7?source=rss-1dad22fc18ce------2)
 - [How Amazon Comprehend is Quietly Revolutionizing the Way We Understand Text](https://krishnendubhowmick.medium.com/how-amazon-comprehend-is-quietly-revolutionizing-the-way-we-understand-text-d04f8c35e1f8?source=rss-1dad22fc18ce------2)
 - [CVE-2025–1974: IngressNightmare — The Kubernetes Zero-Day That Lets Attackers Steal Your Cluster…](https://krishnendubhowmick.medium.com/cve-2025-1974-ingressnightmare-the-kubernetes-zero-day-that-lets-attackers-steal-your-cluster-3691c8298496?source=rss-1dad22fc18ce------2)
-- [Understanding Lists, Tuples, Sets, and Dictionaries in Python: A Beginner-Friendly Guide](https://krishnendubhowmick.medium.com/understanding-lists-tuples-sets-and-dictionaries-in-python-a-beginner-friendly-guide-3bddd9f8f0c7?source=rss-1dad22fc18ce------2)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
