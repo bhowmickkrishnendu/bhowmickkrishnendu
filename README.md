@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Krishnendu Bhowmick</h1>
 <h3 align="center">A passionate devops engineer from India</h3>
 
-<p align="left"> <a href="https://linkedin.com/in/iamkrishnendu" target="blank"><img src="https://img.shields.io/linkedin/follow/iamkrishnendu?logo=linkedin&style=for-the-badge" alt="iamkrishnendu" /></a> </p>
+<p align="left">
+  <a href="https://linkedin.com/in/iamkrishnendu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="Connect with iamkrishnendu on LinkedIn" />
+  </a>
+</p>
+
 
 - 🔭 I’m currently working as **Senior DevOps Engineer, Kolkata, India**
 
