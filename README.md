@@ -31,11 +31,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I solved static IP issues on Ubuntu in my early sysadmin career](https://krishnendubhowmick.medium.com/how-i-solved-static-ip-issues-on-ubuntu-in-my-early-sysadmin-career-22bc24a0caa0?source=rss-1dad22fc18ce------2)
 - [Supercharge GitHub Copilot: How to Build Your Own Perplexity MCP Server in VS Code &lpar;Windows 11&rpar;](https://krishnendubhowmick.medium.com/supercharge-github-copilot-how-to-build-your-own-perplexity-mcp-server-in-vs-code-windows-11-5652737a7b76?source=rss-1dad22fc18ce------2)
 - [Securing AWS with Service Control Policies: Real-World Use Cases](https://krishnendubhowmick.medium.com/securing-aws-with-service-control-policies-real-world-use-cases-de5338b73d1b?source=rss-1dad22fc18ce------2)
 - [How I Used the AWS 6Rs Strategy to Migrate 80+ Applications Successfully](https://aws.plainenglish.io/how-i-used-the-aws-6rs-strategy-to-migrate-80-applications-successfully-b15bc207d1aa?source=rss-1dad22fc18ce------2)
 - [Deep Dive into AWS Regions, AZs, and Beyond: What Every Cloud Learner Should Truly Understand](https://krishnendubhowmick.medium.com/deep-dive-into-aws-regions-azs-and-beyond-what-every-cloud-learner-should-truly-understand-ff8af170bc0d?source=rss-1dad22fc18ce------2)
-- [How to Backup and Restore Amazon DocumentDB: Step-by-Step Guide](https://krishnendubhowmick.medium.com/how-to-backup-and-restore-amazon-documentdb-step-by-step-guide-956f3541d769?source=rss-1dad22fc18ce------2)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
