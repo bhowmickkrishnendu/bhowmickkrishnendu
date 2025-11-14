@@ -31,11 +31,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Custom DNS Resolver in Python: Your Local Hosts File Alternative](https://krishnendubhowmick.medium.com/building-a-custom-dns-resolver-in-python-your-local-hosts-file-alternative-5f5168f48b85?source=rss-1dad22fc18ce------2)
 - [How to Handle Unexpected Failures in Production: Lessons from Real DevOps Incidents](https://krishnendubhowmick.medium.com/how-to-handle-unexpected-failures-in-production-lessons-from-real-devops-incidents-00ceaffc87aa?source=rss-1dad22fc18ce------2)
 - [How “Open Source Contribution” Becomes a Hashtag: A Wake-Up Call for Indian Students](https://krishnendubhowmick.medium.com/how-open-source-contribution-becomes-a-hashtag-a-wake-up-call-for-indian-students-1bc421fb034d?source=rss-1dad22fc18ce------2)
 - [How to setup Kubernetes home lab with minimum requirements — The Hard Way](https://krishnendubhowmick.medium.com/how-to-setup-kubernetes-home-lab-with-minimum-requirements-the-hard-way-c3fe463cf66d?source=rss-1dad22fc18ce------2)
 - [How I solved static IP issues on Ubuntu in my early sysadmin career](https://krishnendubhowmick.medium.com/how-i-solved-static-ip-issues-on-ubuntu-in-my-early-sysadmin-career-22bc24a0caa0?source=rss-1dad22fc18ce------2)
-- [Supercharge GitHub Copilot: How to Build Your Own Perplexity MCP Server in VS Code &lpar;Windows 11&rpar;](https://krishnendubhowmick.medium.com/supercharge-github-copilot-how-to-build-your-own-perplexity-mcp-server-in-vs-code-windows-11-5652737a7b76?source=rss-1dad22fc18ce------2)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
