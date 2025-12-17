@@ -31,11 +31,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React2Shell Apocalypse: CVE-2025-55182 RCE Tears Through React/Next.js](https://krishnendubhowmick.medium.com/react2shell-apocalypse-cve-2025-55182-rce-tears-through-react-next-js-34bc9a28c7b0?source=rss-1dad22fc18ce------2)
 - [Kubernetes is retiring Ingress NGINX: What you need to do for your clusters](https://krishnendubhowmick.medium.com/kubernetes-is-retiring-ingress-nginx-what-you-need-to-do-for-your-clusters-4b47aad12d42?source=rss-1dad22fc18ce------2)
 - [Building a Custom DNS Resolver in Python: Your Local Hosts File Alternative](https://krishnendubhowmick.medium.com/building-a-custom-dns-resolver-in-python-your-local-hosts-file-alternative-5f5168f48b85?source=rss-1dad22fc18ce------2)
 - [How to Handle Unexpected Failures in Production: Lessons from Real DevOps Incidents](https://krishnendubhowmick.medium.com/how-to-handle-unexpected-failures-in-production-lessons-from-real-devops-incidents-00ceaffc87aa?source=rss-1dad22fc18ce------2)
 - [How “Open Source Contribution” Becomes a Hashtag: A Wake-Up Call for Indian Students](https://krishnendubhowmick.medium.com/how-open-source-contribution-becomes-a-hashtag-a-wake-up-call-for-indian-students-1bc421fb034d?source=rss-1dad22fc18ce------2)
-- [How to setup Kubernetes home lab with minimum requirements — The Hard Way](https://krishnendubhowmick.medium.com/how-to-setup-kubernetes-home-lab-with-minimum-requirements-the-hard-way-c3fe463cf66d?source=rss-1dad22fc18ce------2)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
