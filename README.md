@@ -31,11 +31,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The New AWS Feature That Saved Hours of “Access Denied” Troubleshooting](https://krishnendubhowmick.medium.com/the-new-aws-feature-that-saved-hours-of-access-denied-troubleshooting-6d1d49f2be7c?source=rss-1dad22fc18ce------2)
 - [Stop Fighting Python Virtual Environments On Windows Systems: Use Poetry Like A DevOps Engineer](https://krishnendubhowmick.medium.com/stop-fighting-python-virtual-environments-on-windows-systems-use-poetry-like-a-devops-engineer-4fadc09f817f?source=rss-1dad22fc18ce------2)
 - [React2Shell Apocalypse: CVE-2025-55182 RCE Tears Through React/Next.js](https://krishnendubhowmick.medium.com/react2shell-apocalypse-cve-2025-55182-rce-tears-through-react-next-js-34bc9a28c7b0?source=rss-1dad22fc18ce------2)
 - [Kubernetes is retiring Ingress NGINX: What you need to do for your clusters](https://krishnendubhowmick.medium.com/kubernetes-is-retiring-ingress-nginx-what-you-need-to-do-for-your-clusters-4b47aad12d42?source=rss-1dad22fc18ce------2)
 - [Building a Custom DNS Resolver in Python: Your Local Hosts File Alternative](https://krishnendubhowmick.medium.com/building-a-custom-dns-resolver-in-python-your-local-hosts-file-alternative-5f5168f48b85?source=rss-1dad22fc18ce------2)
-- [How to Handle Unexpected Failures in Production: Lessons from Real DevOps Incidents](https://krishnendubhowmick.medium.com/how-to-handle-unexpected-failures-in-production-lessons-from-real-devops-incidents-00ceaffc87aa?source=rss-1dad22fc18ce------2)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
