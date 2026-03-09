@@ -31,11 +31,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Kubernetes Troubleshooting Method Will Make You the Hero On‑Call](https://krishnendubhowmick.medium.com/this-kubernetes-troubleshooting-method-will-make-you-the-hero-on-call-e6bb568479b3?source=rss-1dad22fc18ce------2)
 - [Python Operator Cheatsheet by Krishnendu Bhowmick](https://krishnendubhowmick.medium.com/python-operator-cheatsheet-by-krishnendu-bhowmick-400c306cf0e1?source=rss-1dad22fc18ce------2)
 - [You Can Now Run VMs Inside a Cheaper AWS Instance Instead of Paying for Bare Metal || Krishnendu](https://krishnendubhowmick.medium.com/you-can-now-run-vms-inside-a-cheaper-aws-instance-instead-of-paying-for-bare-metal-krishnendu-3363ba1569d9?source=rss-1dad22fc18ce------2)
 - [The New AWS Feature That Saved Hours of “Access Denied” Troubleshooting](https://krishnendubhowmick.medium.com/the-new-aws-feature-that-saved-hours-of-access-denied-troubleshooting-6d1d49f2be7c?source=rss-1dad22fc18ce------2)
 - [Stop Fighting Python Virtual Environments On Windows Systems: Use Poetry Like A DevOps Engineer](https://krishnendubhowmick.medium.com/stop-fighting-python-virtual-environments-on-windows-systems-use-poetry-like-a-devops-engineer-4fadc09f817f?source=rss-1dad22fc18ce------2)
-- [React2Shell Apocalypse: CVE-2025-55182 RCE Tears Through React/Next.js](https://krishnendubhowmick.medium.com/react2shell-apocalypse-cve-2025-55182-rce-tears-through-react-next-js-34bc9a28c7b0?source=rss-1dad22fc18ce------2)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
