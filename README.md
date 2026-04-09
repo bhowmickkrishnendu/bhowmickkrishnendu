@@ -32,10 +32,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Amazon S3 Files: Native File System Access to Your S3 Data, launched recently](https://krishnendubhowmick.medium.com/amazon-s3-files-native-file-system-access-to-your-s3-data-launched-recently-a320144e6b8e?source=rss-1dad22fc18ce------2)
-- [They Poisoned the Package That Holds All Your AI Keys. Here’s What Actually Happened.](https://krishnendubhowmick.medium.com/they-poisoned-the-package-that-holds-all-your-ai-keys-heres-what-actually-happened-1486cd019a5c?source=rss-1dad22fc18ce------2)
+- [They Poisoned the Package That Holds All Your AI Keys. Here’s What Actually Happened.](https://blog.devgenius.io/they-poisoned-the-package-that-holds-all-your-ai-keys-heres-what-actually-happened-1486cd019a5c?source=rss-1dad22fc18ce------2)
 - [This Kubernetes Troubleshooting Method Will Make You the Hero On‑Call](https://krishnendubhowmick.medium.com/this-kubernetes-troubleshooting-method-will-make-you-the-hero-on-call-e6bb568479b3?source=rss-1dad22fc18ce------2)
 - [Python Operator Cheatsheet by Krishnendu Bhowmick](https://krishnendubhowmick.medium.com/python-operator-cheatsheet-by-krishnendu-bhowmick-400c306cf0e1?source=rss-1dad22fc18ce------2)
-- [You Can Now Run VMs Inside a Cheaper AWS Instance Instead of Paying for Bare Metal || Krishnendu](https://krishnendubhowmick.medium.com/you-can-now-run-vms-inside-a-cheaper-aws-instance-instead-of-paying-for-bare-metal-krishnendu-3363ba1569d9?source=rss-1dad22fc18ce------2)
+- [You Can Now Run VMs Inside a Cheaper AWS Instance Instead of Paying for Bare Metal || Krishnendu](https://aws.plainenglish.io/you-can-now-run-vms-inside-a-cheaper-aws-instance-instead-of-paying-for-bare-metal-krishnendu-3363ba1569d9?source=rss-1dad22fc18ce------2)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
