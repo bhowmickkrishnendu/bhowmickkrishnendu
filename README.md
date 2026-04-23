@@ -1,59 +1,33 @@
-<h1 align="center">Hi 👋, I'm Krishnendu Bhowmick</h1>
-<h3 align="center">A passionate devops engineer from India</h3>
-
-<p align="left">
-  <a href="https://linkedin.com/in/iamkrishnendu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="Connect with iamkrishnendu on LinkedIn" />
-  </a>
-</p>
+# 💫 About Me:
+🔭 I’m currently working as Senior DevOps Engineer II at Nomura Research Institute, Kolkata, India and an AWS Community Builder<br>🌱 I’m currently learning MLOps and AI Engineering<br>🤝 My experience 10 Yrs+<br>👨‍💻 All of my projects are available at https://github.com/bhowmickkrishnendu<br>📝 I write articles on https://krishnendubhowmick.medium.com/<br>💬 Ask me about AWS, Kubernetes, Terraform, and CI/CD automation<br>📫 How to reach me 9635.krishnendu@gmail.com<br>📄 Know about my experiences https://bhowmickkrishnendu.github.io/
 
 
-- 🔭 I’m currently working as **Senior DevOps Engineer, Kolkata, India**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamkbhowmick) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamkrishnendu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@krishnendubhowmick) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/whokrishnendu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:9635.krishnendu@gmail.com)
 
-- 🌱 I’m currently learning **Node JS**
-
-- 🤝 My experience **9 Yrs**
-
-- 👨‍💻 All of my projects are available at [https://github.com/bhowmickkrishnendu](https://github.com/bhowmickkrishnendu)
-
-- 📝 I write articles on [https://krishnendubhowmick.medium.com/](https://krishnendubhowmick.medium.com/)
-
-- 💬 Ask me about **Cloud, IAC, Docker, Kubernetes, CI/CD, Nexus, Git, Ansible**
-
-- 📫 How to reach me **9635.krishnendu@gmail.com**
-
-- 📄 Know about my experiences [https://bhowmickkrishnendu.github.io/](https://bhowmickkrishnendu.github.io/)
-
-<br />
-
----
-
-### 📕 Latest Blog Posts
-
+## 📕 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [How to Mount S3 Buckets as File Systems in AWS &lpar;Amazon S3 Files Tutorial 2026&rpar;](https://krishnendubhowmick.medium.com/amazon-s3-files-native-file-system-access-to-your-s3-data-launched-recently-a320144e6b8e?source=rss-1dad22fc18ce------2)
-- [LiteLLM Supply Chain Attack: How Hackers Stole 97M API Keys &lpar;March 2026 Analysis&rpar;](https://krishnendubhowmick.medium.com/they-poisoned-the-package-that-holds-all-your-ai-keys-heres-what-actually-happened-1486cd019a5c?source=rss-1dad22fc18ce------2)
-- [Fix CrashLoopBackOff, ImagePullError &amp; OOMKilled: Kubernetes Troubleshooting Guide](https://krishnendubhowmick.medium.com/this-kubernetes-troubleshooting-method-will-make-you-the-hero-on-call-e6bb568479b3?source=rss-1dad22fc18ce------2)
-- [Python Operator Cheatsheet by Krishnendu Bhowmick](https://krishnendubhowmick.medium.com/python-operator-cheatsheet-by-krishnendu-bhowmick-400c306cf0e1?source=rss-1dad22fc18ce------2)
-- [Run Nested VMs on AWS EC2: Save 60% vs Bare Metal Instances &lpar;2026 Guide&rpar;](https://krishnendubhowmick.medium.com/you-can-now-run-vms-inside-a-cheaper-aws-instance-instead-of-paying-for-bare-metal-krishnendu-3363ba1569d9?source=rss-1dad22fc18ce------2)
+
+
+
+
+
 <!-- BLOG-POST-LIST:END -->
-<br />
 
----
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=bhowmickkrishnendu&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=bhowmickkrishnendu&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhowmickkrishnendu&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 📺 Connect with me:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bhowmickkrishnendu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left">
-<a href="https://twitter.com/whokrishnendu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whokrishnendu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamkrishnendu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamkrishnendu" height="30" width="40" /></a>
-<a href="https://fb.com/iamkbhowmick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamkbhowmick" height="30" width="40" /></a>
-<a href="https://medium.com/@krishnendubhowmick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@krishnendubhowmick" height="30" width="40" /></a>
-</p>
-<br />
+### ✍️ I Love This
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+  ## 💰 You can help me here
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bhowmickkrishnendu) 
 
-### Languages and Tools:
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhowmickkrishnendu&show_icons=true&locale=en&layout=compact" alt="bhowmickkrishnendu" /></p>
+  
