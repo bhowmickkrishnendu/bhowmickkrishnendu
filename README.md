@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Senior DevOps Engineer II at Nomura Research Institute, Kolkata, India and an AWS Community Builder<br>🌱 I’m currently learning MLOps and AI Engineering<br>🤝 My experience 10 Yrs+<br>👨‍💻 All of my projects are available at https://github.com/bhowmickkrishnendu<br>📝 I write articles on https://krishnendubhowmick.medium.com/<br>💬 Ask me about AWS, Kubernetes, Terraform, and CI/CD automation<br>📫 How to reach me 9635.krishnendu@gmail.com<br>📄 Know about my experiences https://bhowmickkrishnendu.github.io/
+🔭 I’m currently working as <strong>Senior DevOps Engineer II </strong> at Nomura Research Institute, Kolkata, India and an <strong>AWS Community Builder</strong><br>🌱 I’m currently learning MLOps and AI Engineering<br>🤝 My experience 10 Yrs+<br>👨‍💻 All of my projects are available at https://github.com/bhowmickkrishnendu<br>📝 I write articles on https://krishnendubhowmick.medium.com/<br>💬 Ask me about AWS, Kubernetes, Terraform, and CI/CD automation<br>📫 How to reach me 9635.krishnendu@gmail.com<br>📄 Know about my experiences https://bhowmickkrishnendu.github.io/
 
 
 ## 🌐 Socials:
