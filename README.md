@@ -34,7 +34,8 @@
 ### ✍️ I Love This
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-  ##  My OpenSource Contribution
-[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=bhowmickkrishnendu&limit=6&prs=true&issues=true)](https://github.com/amankumarconnect/readme-contribution-stats) 
+  ## OpenSource Contribution
+<!-- Show both, sorted by contributions, excluding specific repos -->
+[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=bhowmickkrishnendu&limit=6&prs=true&issues=true&sort=contributions&exclude=repo1,repo2)](https://github.com/amankumarconnect/readme-contribution-stats)
 
   
