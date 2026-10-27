@@ -26,7 +26,7 @@
 <!-- Next two images side by side -->
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=bhowmickkrishnendu&theme=default&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=bhowmickkrishnendu&card_height=170)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=bhowmickkrishnendu&card_height=170"  />
 
 </p>
 
