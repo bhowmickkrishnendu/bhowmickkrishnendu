@@ -29,9 +29,9 @@
 | Project | Contribution | Status | Review | CI |
 | --- | --- | --- | --- | --- |
 | Ansible | [#87676 · Jinja2 prompt validation](https://github.com/ansible/ansible/pull/87676) | 🟢 Open | ⏳ Review required | [⚠️ Stale · passing](https://github.com/ansible/ansible/pull/87676/checks) |
-| Argo CD | [#30491 · Helm environment values](https://github.com/argoproj/argo-cd/pull/30491) | 🟢 Open | ⏳ Review required | [✅ Passing](https://github.com/argoproj/argo-cd/pull/30491/checks) |
+| Argo CD | [#30491 · Helm environment values](https://github.com/argoproj/argo-cd/pull/30491) | 🟣 Merged | Complete | [✅ Passing](https://github.com/argoproj/argo-cd/pull/30491/checks) |
 
-_Last table update: 27 Oct 2026, 14:42 IST._
+_Last table update: 27 Oct 2026, 19:13 IST._
 <!-- PR-STATUS:END -->
 
 ## ✍️ Fresh from the blog
