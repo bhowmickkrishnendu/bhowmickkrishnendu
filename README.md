@@ -2,6 +2,19 @@
 🔭 I’m currently working as <strong>Senior Platform Engineer - III </strong> at Nomura Research Institute, Kolkata, India and an <strong>AWS Community Builder</strong><br>🌱 I’m currently learning MLOps and AI Engineering<br>🤝 My experience 10 Yrs+<br>👨‍💻 All of my projects are available at https://github.com/bhowmickkrishnendu<br>📝 I write articles on https://krishnendubhowmick.medium.com/<br>💬 Ask me about AWS, Kubernetes, Terraform, and CI/CD automation<br>📫 How to reach me 9635.krishnendu@gmail.com<br>📄 Know about my experiences https://bhowmickkrishnendu.github.io/
 
 
+## 🚀 Open Source Pull Requests
+
+Updated automatically every six hours. Merged and closed contributions remain listed.
+
+<!-- PR-STATUS:START -->
+| Project | Pull request | Status | Review | CI | Last activity (IST) |
+| --- | --- | --- | --- | --- | --- |
+| Ansible | [#87676 · vars\_prompt: validate input with Jinja2 conditions](https://github.com/ansible/ansible/pull/87676) | 🟢 Open | ⏳ Review required | [⚠️ Stale · passing](https://github.com/ansible/ansible/pull/87676/checks) | 27 Oct 2026, 10:37 |
+| Argo CD | [#30491 · docs: explain Helm environment overrides (#9822)](https://github.com/argoproj/argo-cd/pull/30491) | 🟢 Open | ⏳ Review required | [✅ Passing](https://github.com/argoproj/argo-cd/pull/30491/checks) | 27 Oct 2026, 13:45 |
+
+_Last table update: 27 Oct 2026, 13:55 IST._
+<!-- PR-STATUS:END -->
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamkbhowmick) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamkrishnendu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@krishnendubhowmick) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/whokrishnendu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:9635.krishnendu@gmail.com)
 

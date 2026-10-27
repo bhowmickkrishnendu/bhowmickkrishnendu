@@ -1,0 +1,37 @@
+name: Update PR status table
+
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/pr-status.yml'
+      - '.github/scripts/**'
+      - '.github/tracked-prs.json'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-pr-status
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Test table updates
+        run: python3 -m unittest discover -s .github/scripts -p 'test_*.py' -v
+      - name: Refresh PR table
+        run: python3 .github/scripts/update_pr_status.py
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_REPOSITORY: ${{ github.repository }}
+          PROFILE_BRANCH: main
