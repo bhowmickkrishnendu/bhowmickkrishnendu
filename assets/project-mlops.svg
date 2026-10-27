@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="176" viewBox="0 0 720 176" role="img" aria-labelledby="title desc">
+  <title id="title">From taxi data to predictions</title><desc id="desc">NYC demand and fare forecasting with an inspectable ML lifecycle.. Train + track to FastAPI serving to Monitor + explain.</desc>
+  <rect x="1" y="1" width="718" height="174" rx="14" fill="#0d1117" stroke="#2a3947"/>
+  <path d="M1 29V146" stroke="#58d8e8" stroke-width="3"/>
+  <g font-family="Segoe UI, DejaVu Sans, sans-serif">
+    <text x="34" y="40" fill="#58d8e8" font-size="11" letter-spacing="2" font-weight="600">SELECTED WORK / 03</text>
+    <text x="34" y="72" fill="#f0f6fc" font-size="25" font-weight="600">From taxi data to predictions</text>
+    <text x="34" y="95" fill="#91a6b7" font-size="13">NYC demand and fare forecasting with an inspectable ML lifecycle.</text>
+  </g>
+  <g font-family="Consolas, DejaVu Sans Mono, monospace"><rect x="34" y="112" width="198" height="40" rx="8" fill="#111f2b" stroke="#2b4051"/><text x="133" y="137" text-anchor="middle" fill="#58d8e8" font-size="13">Train + track</text><path d="M238 132H255m-5-4 5 4-5 4" fill="none" stroke="#648094" stroke-width="1.5"/><rect x="263" y="112" width="198" height="40" rx="8" fill="#111f2b" stroke="#2b4051"/><text x="362" y="137" text-anchor="middle" fill="#58d8e8" font-size="13">FastAPI serving</text><path d="M467 132H484m-5-4 5 4-5 4" fill="none" stroke="#648094" stroke-width="1.5"/><rect x="492" y="112" width="198" height="40" rx="8" fill="#111f2b" stroke="#2b4051"/><text x="591" y="137" text-anchor="middle" fill="#58d8e8" font-size="13">Monitor + explain</text></g>
+</svg>

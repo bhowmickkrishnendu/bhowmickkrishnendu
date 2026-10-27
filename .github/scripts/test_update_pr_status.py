@@ -47,10 +47,16 @@ class StatusTests(unittest.TestCase):
     def test_title_cannot_add_table_columns(self):
         table = render_table([example()])
         row = table.splitlines()[-1]
-        self.assertEqual(row.count('|'), 7)
+        self.assertEqual(row.count('|'), 6)
         self.assertIn('&#124;', row)
         self.assertIn(r'\[test\]', row)
-        self.assertIn('27 Oct 2026, 05:30', row)
+
+    def test_short_title_preserves_the_pr_link(self):
+        pr = example()
+        pr['short_title'] = 'Focused contribution'
+        table = render_table([pr])
+        self.assertIn('[#1 · Focused contribution](https://github.com/example/project/pull/1)', table)
+        self.assertNotIn('Fix values', table)
 
 
 class UpdateTests(unittest.TestCase):
@@ -66,6 +72,10 @@ class UpdateTests(unittest.TestCase):
         first = replace_section(self.original, self.table, datetime(2026, 1, 1, tzinfo=timezone.utc))
         again = replace_section(first, self.table, datetime(2026, 10, 27, tzinfo=timezone.utc))
         self.assertEqual(first, again)
+
+    def test_footer_uses_ist(self):
+        updated = replace_section(self.original, self.table, datetime(2026, 10, 27, tzinfo=timezone.utc))
+        self.assertIn('27 Oct 2026, 05:30 IST', updated)
 
     def test_unsafe_marker_layouts_are_rejected(self):
         for text in ['README with no markers', f'{END}\n{START}', self.original + START]:

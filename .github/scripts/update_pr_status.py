@@ -21,7 +21,7 @@ QUERY = '''
 query($owner: String!, $repo: String!, $number: Int!) {
   repository(owner: $owner, name: $repo) {
     pullRequest(number: $number) {
-      title url state isDraft reviewDecision updatedAt
+      title url state isDraft reviewDecision
       labels(first: 100) { nodes { name } }
       commits(last: 1) {
         nodes { commit { statusCheckRollup { state } } }
@@ -63,7 +63,10 @@ class GitHub:
         pr = repository.get('pullRequest') if repository else None
         if not pr:
             raise ValueError('A tracked PR was not found; README was not updated.')
-        return {**pr, 'project': tracked['project'], 'number': tracked['number']}
+        return {
+            **pr, 'project': tracked['project'], 'number': tracked['number'],
+            'short_title': tracked.get('short_title'),
+        }
 
 
 def cell(value):
@@ -87,8 +90,8 @@ def ci_status(pr):
 
 def render_table(prs):
     rows = [
-        '| Project | Pull request | Status | Review | CI | Last activity (IST) |',
-        '| --- | --- | --- | --- | --- | --- |',
+        '| Project | Contribution | Status | Review | CI |',
+        '| --- | --- | --- | --- | --- |',
     ]
     for pr in prs:
         state = pr['state']
@@ -101,11 +104,10 @@ def render_table(prs):
         }.get(pr['reviewDecision'], 'No decision')
         if state != 'OPEN':
             review = 'Complete' if state == 'MERGED' else '—'
-        updated = datetime.fromisoformat(pr['updatedAt'].replace('Z', '+00:00')).astimezone(IST)
+        title = pr.get('short_title') or pr['title']
         rows.append(
-            f"| {cell(pr['project'])} | [#{pr['number']} · {cell(pr['title'])}]({pr['url']}) "
-            f"| {status} | {review} | [{ci_status(pr)}]({pr['url']}/checks) "
-            f"| {updated:%d %b %Y, %H:%M} |"
+            f"| {cell(pr['project'])} | [#{pr['number']} · {cell(title)}]({pr['url']}) "
+            f"| {status} | {review} | [{ci_status(pr)}]({pr['url']}/checks) |"
         )
     return '\n'.join(rows)
 

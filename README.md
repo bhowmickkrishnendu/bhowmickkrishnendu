@@ -1,52 +1,112 @@
-# 💫 About Me:
-🔭 I’m currently working as <strong>Senior Platform Engineer - III </strong> at Nomura Research Institute, Kolkata, India and an <strong>AWS Community Builder</strong><br>🌱 I’m currently learning MLOps and AI Engineering<br>🤝 My experience 10 Yrs+<br>👨‍💻 All of my projects are available at https://github.com/bhowmickkrishnendu<br>📝 I write articles on https://krishnendubhowmick.medium.com/<br>💬 Ask me about AWS, Kubernetes, Terraform, and CI/CD automation<br>📫 How to reach me 9635.krishnendu@gmail.com<br>📄 Know about my experiences https://bhowmickkrishnendu.github.io/
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Krishnendu Bhowmick — Platform Engineering, AWS, Kubernetes and GitOps" width="100%" />
+</p>
 
+<p align="center">
+  <strong>Senior Platform Engineer III · Nomura Research Institute</strong><br />
+  AWS Community Builder · Kolkata, India
+</p>
 
-## 🚀 Open Source Pull Requests
+<p align="center">
+  <a href="https://bhowmickkrishnendu.github.io/">Portfolio ↗</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/iamkrishnendu">LinkedIn ↗</a> &nbsp;·&nbsp;
+  <a href="https://krishnendubhowmick.medium.com/">Writing ↗</a> &nbsp;·&nbsp;
+  <a href="mailto:9635.krishnendu@gmail.com">Email ↗</a>
+</p>
+
+I build and automate cloud infrastructure, delivery pipelines, and platform tooling. My work spans **10+ years** across operations and engineering, with a focus on **AWS, Kubernetes, Terraform, and GitOps**. I’m currently extending that work into **MLOps and AI engineering**.
+
+## Selected work
+
+### 01 · AWS-With-Terraform
+
+[![AWS infrastructure, as code: Terraform plan → PR review → AWS infrastructure](assets/project-terraform.svg)](https://github.com/bhowmickkrishnendu/AWS-With-Terraform)
+
+Separate Terraform roots for networking, compute, storage, and shared state, with GitHub Actions checks, deployment approvals, and drift workflows.
+
+**Terraform · AWS · GitHub Actions · Infrastructure as Code**<br />
+[Explore the repository →](https://github.com/bhowmickkrishnendu/AWS-With-Terraform) · [Architecture](https://github.com/bhowmickkrishnendu/AWS-With-Terraform/blob/master/docs/architecture.md)
+
+### 02 · AutomateIT-AnsiblePlaybooks
+
+[![Automate the repetitive work: inventory → Ansible playbooks → Linux and Windows](assets/project-ansible.svg)](https://github.com/bhowmickkrishnendu/AutomateIT-AnsiblePlaybooks)
+
+Playbooks for deployments, system administration, monitoring, and Kubernetes setup. Includes selectable DevOps tooling with OS detection and verified downloads.
+
+**Ansible · Linux · Windows · YAML**<br />
+[Explore the repository →](https://github.com/bhowmickkrishnendu/AutomateIT-AnsiblePlaybooks) · [DevOps tooling](https://github.com/bhowmickkrishnendu/AutomateIT-AnsiblePlaybooks/tree/main/Linux/devops-tools)
+
+### 03 · Taxi Forecasting MLOps
+
+[![From taxi data to predictions: train and track → FastAPI serving → monitor and explain](assets/project-mlops.svg)](https://github.com/bhowmickkrishnendu/taxi-forecasting-mlops)
+
+An end-to-end NYC taxi demand and fare forecasting project: data processing, model training, experiment tracking, API serving, a dashboard, drift detection, and explainability.
+
+**Python · MLflow · FastAPI · Streamlit**<br />
+[Explore the repository →](https://github.com/bhowmickkrishnendu/taxi-forecasting-mlops) · [Architecture](https://github.com/bhowmickkrishnendu/taxi-forecasting-mlops/blob/main/docs/ARCHITECTURE.md)
+
+## Open source contributions
 
 <!-- PR-STATUS:START -->
-| Project | Pull request | Status | Review | CI | Last activity (IST) |
-| --- | --- | --- | --- | --- | --- |
-| Ansible | [#87676 · vars\_prompt: validate input with Jinja2 conditions](https://github.com/ansible/ansible/pull/87676) | 🟢 Open | ⏳ Review required | [⚠️ Stale · passing](https://github.com/ansible/ansible/pull/87676/checks) | 27 Oct 2026, 10:37 |
-| Argo CD | [#30491 · docs: explain Helm environment overrides (#9822)](https://github.com/argoproj/argo-cd/pull/30491) | 🟢 Open | ⏳ Review required | [✅ Passing](https://github.com/argoproj/argo-cd/pull/30491/checks) | 27 Oct 2026, 13:45 |
+| Project | Contribution | Status | Review | CI |
+| --- | --- | --- | --- | --- |
+| Ansible | [#87676 · Jinja2 prompt validation](https://github.com/ansible/ansible/pull/87676) | 🟢 Open | ⏳ Review required | [⚠️ Stale · passing](https://github.com/ansible/ansible/pull/87676/checks) |
+| Argo CD | [#30491 · Helm environment values](https://github.com/argoproj/argo-cd/pull/30491) | 🟢 Open | ⏳ Review required | [✅ Passing](https://github.com/argoproj/argo-cd/pull/30491/checks) |
 
-_Last table update: 27 Oct 2026, 13:55 IST._
+_Last table update: 27 Oct 2026, 14:42 IST._
 <!-- PR-STATUS:END -->
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamkbhowmick) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamkrishnendu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@krishnendubhowmick) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/whokrishnendu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:9635.krishnendu@gmail.com)
+## Core toolkit
 
-## 📕 Latest Blog Posts 
+**Cloud & platforms**<br />
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=FFAD5B) ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=58d8e8) ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=58d8e8) ![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=58d8e8)
+
+**Delivery & automation**<br />
+![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=flat-square&logo=terraform&logoColor=58d8e8) ![Ansible](https://img.shields.io/badge/Ansible-0D1117?style=flat-square&logo=ansible&logoColor=58d8e8) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=58d8e8) ![Jenkins](https://img.shields.io/badge/Jenkins-0D1117?style=flat-square&logo=jenkins&logoColor=58d8e8)
+
+**Code & observability**<br />
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFAD5B) ![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=58d8e8) ![Prometheus](https://img.shields.io/badge/Prometheus-0D1117?style=flat-square&logo=prometheus&logoColor=58d8e8) ![Grafana](https://img.shields.io/badge/Grafana-0D1117?style=flat-square&logo=grafana&logoColor=58d8e8)
+
+<details>
+<summary>More tools I work with</summary>
+
+- **Cloud & delivery:** Azure, GitLab CI, SonarQube, Nginx.
+- **Application tooling:** PowerShell, Groovy, JavaScript, Node.js, Flask.
+- **Data & ML:** PostgreSQL, MySQL, DynamoDB, Pandas, NumPy, scikit-learn.
+
+</details>
+
+## Latest writing
+
+Practical notes on cloud infrastructure, automation, and engineering.
+
 <!-- BLOG-POST-LIST:START -->
 - [How to Mount S3 Buckets as File Systems in AWS &lpar;Amazon S3 Files Tutorial 2026&rpar;](https://krishnendubhowmick.medium.com/amazon-s3-files-native-file-system-access-to-your-s3-data-launched-recently-a320144e6b8e?source=rss-1dad22fc18ce------2)
 - [LiteLLM Supply Chain Attack: How Hackers Stole 97M API Keys &lpar;March 2026 Analysis&rpar;](https://krishnendubhowmick.medium.com/they-poisoned-the-package-that-holds-all-your-ai-keys-heres-what-actually-happened-1486cd019a5c?source=rss-1dad22fc18ce------2)
 - [Fix CrashLoopBackOff, ImagePullError &amp; OOMKilled: Kubernetes Troubleshooting Guide](https://krishnendubhowmick.medium.com/this-kubernetes-troubleshooting-method-will-make-you-the-hero-on-call-e6bb568479b3?source=rss-1dad22fc18ce------2)
-- [Python Operator Cheatsheet by Krishnendu Bhowmick](https://krishnendubhowmick.medium.com/python-operator-cheatsheet-by-krishnendu-bhowmick-400c306cf0e1?source=rss-1dad22fc18ce------2)
-- [Run Nested VMs on AWS EC2: Save 60% vs Bare Metal Instances &lpar;2026 Guide&rpar;](https://krishnendubhowmick.medium.com/you-can-now-run-vms-inside-a-cheaper-aws-instance-instead-of-paying-for-bare-metal-krishnendu-3363ba1569d9?source=rss-1dad22fc18ce------2)
 <!-- BLOG-POST-LIST:END -->
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-## 📊 GitHub Stats:
+[More articles on Medium →](https://krishnendubhowmick.medium.com/)
 
-<!-- First image centered -->
+<details>
+<summary>GitHub activity</summary>
+<br />
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bhowmickkrishnendu&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api?username=bhowmickkrishnendu&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58d8e8&amp;text_color=c9d1d9&amp;icon_color=ffad5b&amp;hide_rank=true" alt="Krishnendu’s public GitHub activity" width="495" />
 </p>
 
-<!-- Next two images side by side -->
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=bhowmickkrishnendu&theme=default&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=bhowmickkrishnendu&card_width=435&card_height=175"  />
+[View my GitHub profile →](https://github.com/bhowmickkrishnendu)
 
-</p>
+</details>
 
+---
 
-### ✍️ I Love This
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Let’s talk platforms, cloud automation, or MLOps.**<br />
+[Portfolio](https://bhowmickkrishnendu.github.io/) · [LinkedIn](https://linkedin.com/in/iamkrishnendu) · [Email](mailto:9635.krishnendu@gmail.com) · [X](https://x.com/whokrishnendu)
 
-  ## OpenSource Contribution
-<!-- Show both, sorted by contributions, excluding specific repos -->
-[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=bhowmickkrishnendu&limit=6&prs=true&issues=true&sort=contributions&exclude=repo1,repo2)](https://github.com/amankumarconnect/readme-contribution-stats)
+<details>
+<summary>Elsewhere</summary>
 
-  
+[Facebook](https://facebook.com/iamkbhowmick)
+
+</details>
