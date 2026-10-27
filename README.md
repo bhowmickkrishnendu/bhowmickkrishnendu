@@ -4,8 +4,6 @@
 
 ## 🚀 Open Source Pull Requests
 
-Updated automatically every six hours. Merged and closed contributions remain listed.
-
 <!-- PR-STATUS:START -->
 | Project | Pull request | Status | Review | CI | Last activity (IST) |
 | --- | --- | --- | --- | --- | --- |
