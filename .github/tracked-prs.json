@@ -1,5 +1,6 @@
 [
-  {"project": "Ansible", "owner": "ansible", "repo": "ansible", "number": 87676, "short_title": "Jinja2 prompt validation"},
-  {"project": "Argo CD", "owner": "argoproj", "repo": "argo-cd", "number": 30491, "short_title": "Helm environment values"},
-  {"project": "Argo CD", "owner": "argoproj", "repo": "argo-cd", "number": 30501, "short_title": "Core kubeconfig persistence"}
+  {"project":"Ansible","owner":"ansible","repo":"ansible","number":87676,"short_title":"Jinja2 prompt validation"},
+  {"project":"Argo CD","owner":"argoproj","repo":"argo-cd","number":30491,"short_title":"Helm environment values"},
+  {"project":"Argo CD","owner":"argoproj","repo":"argo-cd","number":30501,"short_title":"Core kubeconfig persistence"},
+  {"project":"SRELens","owner":"srelens","repo":"srelens","number":1012,"short_title":"Audit trail export"}
 ]
