@@ -28,12 +28,12 @@
 <!-- PR-STATUS:START -->
 | Project | Contribution | Status | Review | CI |
 | --- | --- | --- | --- | --- |
-| Ansible | [#87676 · Jinja2 prompt validation](https://github.com/ansible/ansible/pull/87676) | 🟢 Open | ⏳ Review required | [⚠️ Stale · passing](https://github.com/ansible/ansible/pull/87676/checks) |
-| Argo CD | [#30491 · Helm environment values](https://github.com/argoproj/argo-cd/pull/30491) | 🟣 Merged | Complete | [✅ Passing](https://github.com/argoproj/argo-cd/pull/30491/checks) |
-| Argo CD | [#30501 · Core kubeconfig persistence](https://github.com/argoproj/argo-cd/pull/30501) | 🟢 Open | 🛠 Changes requested | [✅ Passing](https://github.com/argoproj/argo-cd/pull/30501/checks) |
-| SRELens | [#1012 · Audit trail export](https://github.com/srelens/srelens/pull/1012) | 🟢 Open | ⏳ Review required | [✅ Passing](https://github.com/srelens/srelens/pull/1012/checks) |
+| Ansible | [#87676 · Add Jinja2 condition-based validation to interactive prompts so users can correct invalid input before continuing a playbook.](https://github.com/ansible/ansible/pull/87676) | 🟢 Open | ⏳ Review required | [⚠️ Stale · passing](https://github.com/ansible/ansible/pull/87676/checks) |
+| Argo CD | [#30491 · Explain shared and environment-specific Helm values, merge precedence, repository paths, credentials, and permissions through validated examples.](https://github.com/argoproj/argo-cd/pull/30491) | 🟣 Merged | Complete | [✅ Passing](https://github.com/argoproj/argo-cd/pull/30491/checks) |
+| Argo CD | [#30501 · Save custom kubeconfig paths for core-mode contexts and reuse them across Argo CD commands while respecting explicit overrides.](https://github.com/argoproj/argo-cd/pull/30501) | 🟢 Open | 🛠 Changes requested | [✅ Passing](https://github.com/argoproj/argo-cd/pull/30501/checks) |
+| SRELens | [#1012 · Export current or retained audit records as JSONL or CSV, with sensitive details excluded by default and native file saving.](https://github.com/srelens/srelens/pull/1012) | 🟢 Open | ⏳ Review required | [✅ Passing](https://github.com/srelens/srelens/pull/1012/checks) |
 
-_Last table update: 31 Oct 2026, 12:46 IST._
+_Last table update: 31 Oct 2026, 12:50 IST._
 <!-- PR-STATUS:END -->
 
 ## ✍️ Fresh from the blog
