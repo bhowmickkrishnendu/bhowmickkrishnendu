@@ -31,8 +31,9 @@
 | Ansible | [#87676 · Jinja2 prompt validation](https://github.com/ansible/ansible/pull/87676) | 🟢 Open | ⏳ Review required | [⚠️ Stale · passing](https://github.com/ansible/ansible/pull/87676/checks) |
 | Argo CD | [#30491 · Helm environment values](https://github.com/argoproj/argo-cd/pull/30491) | 🟣 Merged | Complete | [✅ Passing](https://github.com/argoproj/argo-cd/pull/30491/checks) |
 | Argo CD | [#30501 · Core kubeconfig persistence](https://github.com/argoproj/argo-cd/pull/30501) | 🟢 Open | 🛠 Changes requested | [✅ Passing](https://github.com/argoproj/argo-cd/pull/30501/checks) |
+| SRELens | [#1012 · Audit trail export](https://github.com/srelens/srelens/pull/1012) | 🟢 Open | ⏳ Review required | [✅ Passing](https://github.com/srelens/srelens/pull/1012/checks) |
 
-_Last table update: 29 Oct 2026, 04:10 IST._
+_Last table update: 31 Oct 2026, 12:46 IST._
 <!-- PR-STATUS:END -->
 
 ## ✍️ Fresh from the blog
