@@ -39,9 +39,9 @@ _Last table update: 31 Oct 2026, 12:50 IST._
 ## ✍️ Fresh from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP2Shell: How to Verify That Your Running PHP Application Is Patched](https://krishnendubhowmick.medium.com/php2shell-how-to-verify-that-your-running-php-application-is-patched-473538361de9?source=rss-1dad22fc18ce------2)
 - [After the Binance Hack: Testing What a DevOps Identity Can Actually Do](https://krishnendubhowmick.medium.com/after-the-binance-hack-testing-what-a-devops-identity-can-actually-do-3595d64bb246?source=rss-1dad22fc18ce------2)
 - [How to Mount S3 Buckets as File Systems in AWS &lpar;Amazon S3 Files Tutorial 2026&rpar;](https://krishnendubhowmick.medium.com/amazon-s3-files-native-file-system-access-to-your-s3-data-launched-recently-a320144e6b8e?source=rss-1dad22fc18ce------2)
-- [LiteLLM Supply Chain Attack: How Hackers Stole 97M API Keys &lpar;March 2026 Analysis&rpar;](https://krishnendubhowmick.medium.com/they-poisoned-the-package-that-holds-all-your-ai-keys-heres-what-actually-happened-1486cd019a5c?source=rss-1dad22fc18ce------2)
 <!-- BLOG-POST-LIST:END -->
 
 [More on Medium ↗](https://krishnendubhowmick.medium.com/)
