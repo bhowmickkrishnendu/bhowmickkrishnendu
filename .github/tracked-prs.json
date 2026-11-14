@@ -2,5 +2,6 @@
   {"project":"Ansible","owner":"ansible","repo":"ansible","number":87676,"short_title":"Add Jinja2 condition-based validation to interactive prompts so users can correct invalid input before continuing a playbook."},
   {"project":"Argo CD","owner":"argoproj","repo":"argo-cd","number":30491,"short_title":"Explain shared and environment-specific Helm values, merge precedence, repository paths, credentials, and permissions through validated examples."},
   {"project":"Argo CD","owner":"argoproj","repo":"argo-cd","number":30501,"short_title":"Save custom kubeconfig paths for core-mode contexts and reuse them across Argo CD commands while respecting explicit overrides."},
-  {"project":"SRELens","owner":"srelens","repo":"srelens","number":1012,"short_title":"Export current or retained audit records as JSONL or CSV, with sensitive details excluded by default and native file saving."}
+  {"project":"SRELens","owner":"srelens","repo":"srelens","number":1012,"short_title":"Export current or retained audit records as JSONL or CSV, with sensitive details excluded by default and native file saving."},
+  {"project":"Prometheus Community","owner":"prometheus-community","repo":"helm-charts","number":7601,"short_title":"Document how to switch kube-dns monitoring on GKE 1.36 and later to the CoreDNS metrics endpoint on port 9153."}
 ]
