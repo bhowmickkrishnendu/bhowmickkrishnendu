@@ -32,8 +32,9 @@
 | Argo CD | [#30491 · Explain shared and environment-specific Helm values, merge precedence, repository paths, credentials, and permissions through validated examples.](https://github.com/argoproj/argo-cd/pull/30491) | 🟣 Merged | Complete | [✅ Passing](https://github.com/argoproj/argo-cd/pull/30491/checks) |
 | Argo CD | [#30501 · Save custom kubeconfig paths for core-mode contexts and reuse them across Argo CD commands while respecting explicit overrides.](https://github.com/argoproj/argo-cd/pull/30501) | 🟢 Open | 🛠 Changes requested | [✅ Passing](https://github.com/argoproj/argo-cd/pull/30501/checks) |
 | SRELens | [#1012 · Export current or retained audit records as JSONL or CSV, with sensitive details excluded by default and native file saving.](https://github.com/srelens/srelens/pull/1012) | 🟣 Merged | Complete | [✅ Passing](https://github.com/srelens/srelens/pull/1012/checks) |
+| Prometheus Community | [#7601 · Document how to switch kube-dns monitoring on GKE 1.36 and later to the CoreDNS metrics endpoint on port 9153.](https://github.com/prometheus-community/helm-charts/pull/7601) | 🟢 Open | ⏳ Review required | [✅ Passing](https://github.com/prometheus-community/helm-charts/pull/7601/checks) |
 
-_Last table update: 02 Nov 2026, 16:03 IST._
+_Last table update: 14 Nov 2026, 18:52 IST._
 <!-- PR-STATUS:END -->
 
 ## ✍️ Fresh from the blog
