@@ -39,9 +39,9 @@ _Last table update: 21 Nov 2026, 01:59 IST._
 ## ✍️ Fresh from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Java4Shell: You Updated Java. Did You Fix the Running Application?](https://krishnendubhowmick.medium.com/java4shell-you-updated-java-did-you-fix-the-running-application-091e0081fc0e?source=rss-1dad22fc18ce------2)
 - [PHP2Shell: How to Verify That Your Running PHP Application Is Patched](https://krishnendubhowmick.medium.com/php2shell-how-to-verify-that-your-running-php-application-is-patched-473538361de9?source=rss-1dad22fc18ce------2)
 - [After the Binance Hack: Testing What a DevOps Identity Can Actually Do](https://krishnendubhowmick.medium.com/after-the-binance-hack-testing-what-a-devops-identity-can-actually-do-3595d64bb246?source=rss-1dad22fc18ce------2)
-- [How to Mount S3 Buckets as File Systems in AWS &lpar;Amazon S3 Files Tutorial 2026&rpar;](https://krishnendubhowmick.medium.com/amazon-s3-files-native-file-system-access-to-your-s3-data-launched-recently-a320144e6b8e?source=rss-1dad22fc18ce------2)
 <!-- BLOG-POST-LIST:END -->
 
 [More on Medium ↗](https://krishnendubhowmick.medium.com/)
